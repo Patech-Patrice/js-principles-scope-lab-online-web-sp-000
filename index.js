@@ -3,6 +3,7 @@
 const customerName = 'bob'
 
 function upperCaseCustomerName() {
+  const customerName = 'bob'
     
      return customerName 
     }
